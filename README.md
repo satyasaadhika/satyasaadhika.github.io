@@ -1,8 +1,8 @@
 # satyasaadhika.github.io
 
 |  Project             | Project link                                       |
-|----------------      |--------------                                      |
-|  Amazon-Project      |  (https://satyasaadhika.github.io/Amazon-project/ )  |
+|----------------------|----------------------------------------------------|
+|  Amazon-Project      |  https://satyasaadhika.github.io/Amazon-project/   |
 |  Tribute-Page        |  https://satyasaadhika.github.io/Tribute-page/     |
 |  Original-Trombones  |  https://satyasaadhika.github.io/Trombones/        | 
 |  Wildlife-Chornicles |  https://satyasaadhika.github.io/Wildlife/         |
@@ -10,5 +10,5 @@
 |  Digital-Clock       |  https://satyasaadhika.github.io/digital-clock/    |
 |  Payment-Form        |  https://satyasaadhika.github.io/Payment-form/     |
 |  Login-Page          |  https://satyasaadhika.github.io/login-page/       |
-|  Survey-Form         |https://satyasaadhika.github.io/form/               |
+|  Survey-Form         |  https://satyasaadhika.github.io/form/             |
 -----------------------------------------------------------------------------
