@@ -4,7 +4,7 @@
 |  Project             | Project link       |
 |----------------      |--------------      |
 |  Amazon-Project      |  https://satyasaadhika.github.io/Amazon-project/
-|  Tribute-Page        | 
+|  Tribute-Page        |  https://satyasaadhika.github.io/Tribute-page/
 |  Original-Trombones  |
 |  Wildlife-Chornicles |
 |  Documentation-page  |
