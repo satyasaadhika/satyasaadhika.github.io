@@ -1,5 +1,5 @@
 # Satyasaadhika 
-## These are different types of projects
+## A catalog of my work
 
 |  Project                    |                   Project link                         |
 |-----------------------------|--------------------------------------------------------|
