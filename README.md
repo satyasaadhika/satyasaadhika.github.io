@@ -1,4 +1,4 @@
-# Readme 
+# Satyasaadhika 
 ## These are different types of projects
 
 |  Project                    |                   Project link                         |
