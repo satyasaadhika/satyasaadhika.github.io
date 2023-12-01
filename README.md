@@ -13,4 +13,5 @@
 |     Login-Page              |  https://satyasaadhika.github.io/login-page/           |
 |     Survey-Form             |  https://satyasaadhika.github.io/form/                 |
 |  Freecodecamp-web-landing|  https://satyasaadhika.github.io/freecodecamp-wd-landing/ |
+|    Cat-Photos               |  https://satyasaadhika.github.io/cat-photos/           |
 ---------------------------------------------------------------------------------------
