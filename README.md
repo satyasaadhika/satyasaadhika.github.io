@@ -8,12 +8,12 @@
 |  [Original Trombones](https://satyasaadhika.github.io/trombones/)                                 |
 |  [Wildlife Chornicles](https://satyasaadhika.github.io/wildlife/)                                 |
 |  [JS Documentation page](https://satyasaadhika.github.io/documentation/)                          |
+|  [Information](https://satyasaadhika.github.io/Information/)                                      |
 |  [Digital Clock](https://satyasaadhika.github.io/digital-clock/)                                  |
 |  [Payment Form](https://satyasaadhika.github.io/payment-form/)                                    |
 |  [Login Page](https://satyasaadhika.github.io/login-page/)                                        |
 |  [Survey Form](https://satyasaadhika.github.io/form/)                                             |
 |  [Freecodecamp Web Development Landing](https://satyasaadhika.github.io/freecodecamp-wd-landing/) |
 |  [Cat Photos](https://satyasaadhika.github.io/cat-photos/)                                        |
-|  [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/)                                          |
-|  [Information](https://satyasaadhika.github.io/Information/)                                      |
+|  [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/)                                          |                             
 -----------------------------------------------------------------------------------------------------
