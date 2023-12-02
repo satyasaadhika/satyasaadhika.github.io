@@ -15,4 +15,5 @@
 |  [Freecodecamp Web Development Landing](https://satyasaadhika.github.io/freecodecamp-wd-landing/) |
 |  [Cat Photos](https://satyasaadhika.github.io/cat-photos/)                                        |
 |  [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/)                                          |
+|  [Information](https://satyasaadhika.github.io/Information/)                                      |
 -----------------------------------------------------------------------------------------------------
