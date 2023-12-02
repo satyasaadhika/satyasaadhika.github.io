@@ -7,8 +7,7 @@
 |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)                    |
 |  [Original Trombones](https://satyasaadhika.github.io/trombones/)                                 |
 |  [Wildlife Chornicles](https://satyasaadhika.github.io/wildlife/)                                 |
-|  [JS Documentation page](https://satyasaadhika.github.io/documentation/)                          |
-|  [Information](https://satyasaadhika.github.io/Information/)                                      |
+|  [JS Documentation page](https://satyasaadhika.github.io/documentation/)                          |                                     |
 |  [Digital Clock](https://satyasaadhika.github.io/digital-clock/)                                  |
 |  [Payment Form](https://satyasaadhika.github.io/payment-form/)                                    |
 |  [Login Page](https://satyasaadhika.github.io/login-page/)                                        |
