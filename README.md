@@ -1,8 +1,8 @@
 # Satyasaadhika 
 ## A catalog of my work
 
-|  Projects                                                                                         |
-|---------------------------------------------------------------------------------------------------|
+|Projects|
+|--|
 |  [Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)                                    |
 |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)                    |
 |  [Original Trombones](https://satyasaadhika.github.io/trombones/)                                 |
@@ -15,6 +15,5 @@
 |  [Freecodecamp Web Development Landing](https://satyasaadhika.github.io/freecodecamp-wd-landing/) |
 |  [Cat Photos](https://satyasaadhika.github.io/cat-photos/)                                        |
 |  [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/)                                          |
-|  [Color Marker](https://satyasaadhika.github.io/Colors-marker/)                                   |
-|  [Nutrition Label Webpage](https://satyasaadhika.github.io/Nutrition-label/)                      |
------------------------------------------------------------------------------------------------------
+|  [Color Markers](https://satyasaadhika.github.io/color-markers/)                                  |
+|  [Nutrition Label](https://satyasaadhika.github.io/nutrition-label/)                              |
