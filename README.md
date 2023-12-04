@@ -4,6 +4,7 @@
 |                |           Projects          |                  |
 |-----------------------------|-------------------------|-------------------------|
 |[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  | [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)  |[Original Trombones](https://satyasaadhika.github.io/trombones/)| 
+|![Amazon-website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/915c8d21-acb8-4783-a33e-4863e2fbddb9)|
 
 
 
