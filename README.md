@@ -1,9 +1,8 @@
 # Satyasaadhika 
 ## A catalog of my work
 
-|         |  Projects  | 
+|         |  Projects  |           |
 |-------------------------------------------------------------|-----------------------------------|-------------------------|
-|  :---  |  :---:  |  :---  |
 | [Cat Photos](https://satyasaadhika.github.io/cat-photos/) |  [Color Markers](https://satyasaadhika.github.io/color-markers/) |   [Nutrition Label](https://satyasaadhika.github.io/nutrition-label/) |    
 |![Cat Photos](https://th.bing.com/th/id/OIP.TQjs2_m_qVd_J_lVAtHADgHaEo?w=316&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7)|![Color Markers](https://th.bing.com/th/id/OIP.P879kLWOAus5q30k1hajkgHaFN?pid=ImgDet&w=200&h=140&c=7&dpr=1.3)|![Nutrition Label](https://th.bing.com/th/id/OIP.Q9hBaCWifSIEVpbVW2vHZAAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)|
 
