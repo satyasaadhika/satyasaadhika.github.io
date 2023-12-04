@@ -1,9 +1,8 @@
 # Satyasaadhika 
 ## A catalog of my work
-
-|                |           Projects          |                  |
-|-----------------------------|-------------------------|-------------------------|
-|[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  | [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)  |[Original Trombones](https://satyasaadhika.github.io/trombones/)| 
+|  Projects          |                  |
+|-----------------------------|-------------------------|
+|[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  | [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)  |
 
 
 
