@@ -16,8 +16,8 @@
 | [Freecodecamp Web Development Landing](https://satyasaadhika.github.io/freecodecamp-wd-landing/)| [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/) |
 |![Web-development](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/3d8d7e4b-9859-44d3-82f9-f493c81bf955)|![Cafe-Menu](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/56a28ec6-5d11-412b-8637-14e1946f841d)|
 | [Color Markers](https://satyasaadhika.github.io/color-markers/)  |[Nutrition Label](https://satyasaadhika.github.io/nutrition-label/)    |
-|![Color-Markers](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/5b9f3a4b-7ef5-4e81-9306-f382434172ce) |![Nutrition-Label](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/3c5eee02-6c5e-4b6e-b8ef-451364594f9e)|
-|--|
+|![Color-Markers](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/5b9f3a4b-7ef5-4e81-9306-f382434172ce) |![Nutrition-Label](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b39ec2a1-6048-41fe-9fd4-1ae52b289782) |
+
 
 
 
