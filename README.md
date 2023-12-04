@@ -2,7 +2,7 @@
 ## A catalog of my work
 
 |                |           Projects          |                  |
-|-------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------||
+|-----------------------------|-------------------------|-------------------------|
 | [Cat Photos](https://satyasaadhika.github.io/cat-photos/) |  [Color Markers](https://satyasaadhika.github.io/color-markers/) |   [Nutrition Label](https://satyasaadhika.github.io/nutrition-label/) |    
 |
 
