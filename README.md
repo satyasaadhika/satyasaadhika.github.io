@@ -3,7 +3,7 @@
 
 |Projects|
 |--|
-|  [Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)                                    |
+| ![Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)                                    |
 |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/)                    |
 |  [Original Trombones](https://satyasaadhika.github.io/trombones/)                                 |
 |  [Wildlife Chornicles](https://satyasaadhika.github.io/wildlife/)                                 |
