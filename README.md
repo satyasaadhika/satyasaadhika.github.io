@@ -4,7 +4,8 @@
    |projects|   |
 |:--------:|:---------:|
 |[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/) |
-|![Amazon-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc)|![Dr   Norman-Borlaug](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/a5741b5a-45d6-4306-8873-12dfd97abdd7)|
+|[![Amazon-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc)](https://satyasaadhika.github.io/amazon-clone/)
+|![Dr   Norman-Borlaug](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/a5741b5a-45d6-4306-8873-12dfd97abdd7)|
 |[Original Trombones](https://satyasaadhika.github.io/trombones/)  | [CatPhotoApp](https://satyasaadhika.github.io/cat-photos/)|
 |![Original-Trombones](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f9bdec84-6648-4c98-abb1-ecb6dc8176b4) |![CatPhotoApp](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/29416169-dfd9-4a6e-a01c-d088d0d54360)|
 | [Wildlife Chornicles](https://satyasaadhika.github.io/wildlife/) | [JS Documentation page](https://satyasaadhika.github.io/documentation/) |
