@@ -1,7 +1,7 @@
 # Satyasaadhika 
 ## A catalog of my work
  
-|                                                                |   Project    |                                                      |
+|            Project    |                               |
 
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 |[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  | [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/) |
