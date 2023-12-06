@@ -1,7 +1,7 @@
 # Satyasaadhika 
 ## A catalog of my work
 
-   |projects|   |
+   ||   |
 |:--------:|:---------:|
 |[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/) |
 |[![Amazon-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc)](https://satyasaadhika.github.io/amazon-clone/)|[![Dr   Norman-Borlaug](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/99c00a54-da65-46dc-8d1d-8ee90abbfd7a)](https://satyasaadhika.github.io/tribute-page/) |
@@ -16,9 +16,9 @@
 | [Freecodecamp Web Development Landing](https://satyasaadhika.github.io/freecodecamp-wd-landing/)| [Cafe Menu](https://satyasaadhika.github.io/cafe-menu/) |
 |[![Web-development-landing](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/1358de36-8023-4ccb-9aba-419fe0971262)](https://satyasaadhika.github.io/freecodecamp-wd-landing/)| [![Cafe-Menu](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9fc66923-60c3-4907-8634-fe3e45ababd6)](https://satyasaadhika.github.io/cafe-menu/)|
 | [Color Markers](https://satyasaadhika.github.io/color-markers/)  |[Nutrition Label](https://satyasaadhika.github.io/nutrition-label/)    |
-|[![Color-Markers](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/3201a2f0-5941-4e7f-9c28-4aa8462e7e8b)](https://satyasaadhika.github.io/color-markers/) |[![Nutrition-Label](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f90a9522-9ec8-4f1c-be29-7b78da47d6e7)](https://satyasaadhika.github.io/nutrition-label/) |
-|[Accessibility-Quiz](https://satyasaadhika.github.io/Accessibility-quiz/)|   
-|[![Accessibility-quiz](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/4c5145d4-dccf-4b28-9405-bf8a9465de70)](https://satyasaadhika.github.io/Accessibility-quiz/)| 
+|[![Color Markers](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/3201a2f0-5941-4e7f-9c28-4aa8462e7e8b)](https://satyasaadhika.github.io/color-markers/) |[![Nutrition-Label](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f90a9522-9ec8-4f1c-be29-7b78da47d6e7)](https://satyasaadhika.github.io/nutrition-label/) |
+|[Accessibility Quiz](https://satyasaadhika.github.io/Accessibility-quiz/)|   
+|[![Accessibility Quiz](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/4c5145d4-dccf-4b28-9405-bf8a9465de70)](https://satyasaadhika.github.io/Accessibility-quiz/)| 
 
 
 
