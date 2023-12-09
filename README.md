@@ -19,6 +19,9 @@
 |[![Color Markers](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/3201a2f0-5941-4e7f-9c28-4aa8462e7e8b)](https://satyasaadhika.github.io/color-markers/) |[![Nutrition-Label](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f90a9522-9ec8-4f1c-be29-7b78da47d6e7)](https://satyasaadhika.github.io/nutrition-label/) |
 |[Accessibility Quiz](https://satyasaadhika.github.io/Accessibility-quiz/)| [Balance-Sheet](https://satyasaadhika.github.io/Balance-sheet/)|  
 |[![Accessibility Quiz](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/4c5145d4-dccf-4b28-9405-bf8a9465de70)](https://satyasaadhika.github.io/Accessibility-quiz/)|[![Balance-sheet](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/10890de9-8b02-401c-af36-c81bb2cd7c6f)](https://satyasaadhika.github.io/Balance-sheet/)|
+|[Cat Painting](satyasaadhika.github.io/cat-painting/)|  |
+|[![cat-painting](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b340a20c-aabf-4e86-a427-f44dd6703744)](satyasaadhika.github.io/cat-painting/)|  |
+
  
 
 
