@@ -6,6 +6,8 @@
 |[![Amazon-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc)](https://satyasaadhika.github.io/amazon-clone/)|[![Dr   Norman-Borlaug](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/99c00a54-da65-46dc-8d1d-8ee90abbfd7a)](https://satyasaadhika.github.io/tribute-page/) |
 |[Original Trombones](https://satyasaadhika.github.io/trombones/)  | [CatPhotoApp](https://satyasaadhika.github.io/cat-photos/)|
 |[![Original-Trombones](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f9bdec84-6648-4c98-abb1-ecb6dc8176b4)](https://satyasaadhika.github.io/trombones/) |[![CatPhotoApp](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/29416169-dfd9-4a6e-a01c-d088d0d54360)](https://satyasaadhika.github.io/cat-photos/)|
+|[Magazine](https://satyasaadhika.github.io/magazine/)|[Henry-Dunant](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/) |
+|[![magazine](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d)](https://satyasaadhika.github.io/magazine/)|[![Henry-dunant](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/07ad23f7-b4d5-4562-a798-c1ad7d1f3471)](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/)|
 | [Wildlife Chornicles](https://satyasaadhika.github.io/wildlife/) | [JS Documentation page](https://satyasaadhika.github.io/documentation/) |
 |[![Wildlife-Chronicles](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/171d5152-aea8-4fd2-b327-55afd1c966d1)](https://satyasaadhika.github.io/wildlife/) | [![Js-documentation](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/85ec5157-3f1d-4b23-b428-cf076491b215)](https://satyasaadhika.github.io/documentation/)|
 | [Digital Clock](https://satyasaadhika.github.io/digital-clock/)   |[Login Page](https://satyasaadhika.github.io/login-page/) |
@@ -22,8 +24,6 @@
 |[![cat-painting](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b340a20c-aabf-4e86-a427-f44dd6703744)](https://satyasaadhika.github.io/cat-painting/)|[![piano](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/ca3592e3-4a8a-407e-8835-9b879bb12c5d)](https://satyasaadhika.github.io/Piano/)|
 |[City Skyline](https://satyasaadhika.github.io/city-skyline/)|[Ferris-Wheel](https://satyasaadhika.github.io/ferris-wheel/)  |
 |[![city-skyline](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e39778b5-6f17-4560-884d-58cc3040db39)](https://satyasaadhika.github.io/city-skyline/) | [![ferris-wheel](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/abb0d232-36a3-4016-a324-066d055f07c1)](https://satyasaadhika.github.io/ferris-wheel/) |
-|[Magazine](https://satyasaadhika.github.io/magazine/)|[Henry-Dunant](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/) |
-|[![magazine](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d)](https://satyasaadhika.github.io/magazine/)|[![Henry-dunant](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/07ad23f7-b4d5-4562-a798-c1ad7d1f3471)](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/)|
 
 
 
