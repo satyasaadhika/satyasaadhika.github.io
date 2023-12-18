@@ -22,8 +22,9 @@
 |[![cat-painting](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b340a20c-aabf-4e86-a427-f44dd6703744)](https://satyasaadhika.github.io/cat-painting/)|[![piano](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/ca3592e3-4a8a-407e-8835-9b879bb12c5d)](https://satyasaadhika.github.io/Piano/)|
 |[City Skyline](https://satyasaadhika.github.io/city-skyline/)|[Ferris-Wheel](https://satyasaadhika.github.io/ferris-wheel/)  |
 |[![city-skyline](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e39778b5-6f17-4560-884d-58cc3040db39)](https://satyasaadhika.github.io/city-skyline/) | [![ferris-wheel](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/abb0d232-36a3-4016-a324-066d055f07c1)](https://satyasaadhika.github.io/ferris-wheel/) |
-|[Magazine](https://satyasaadhika.github.io/magazine/)|  |
-|[![magazine](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d)](https://satyasaadhika.github.io/magazine/)|  |
+|[Magazine](https://satyasaadhika.github.io/magazine/)|[Henry-Dunant](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/) |
+|[![magazine](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d)](https://satyasaadhika.github.io/magazine/)|[![Henry-dunant](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/07ad23f7-b4d5-4562-a798-c1ad7d1f3471)](https://satyasaadhika.github.io/Henry-Dunant-tribute-page/)|
+
 
 
 
