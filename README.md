@@ -24,6 +24,9 @@
 |[![cat-painting](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b340a20c-aabf-4e86-a427-f44dd6703744)](https://satyasaadhika.github.io/cat-painting/)|[![piano](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/ca3592e3-4a8a-407e-8835-9b879bb12c5d)](https://satyasaadhika.github.io/Piano/)|
 |[City Skyline](https://satyasaadhika.github.io/city-skyline/)|[Ferris-Wheel](https://satyasaadhika.github.io/ferris-wheel/)  |
 |[![city-skyline](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e39778b5-6f17-4560-884d-58cc3040db39)](https://satyasaadhika.github.io/city-skyline/) | [![ferris-wheel](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/abb0d232-36a3-4016-a324-066d055f07c1)](https://satyasaadhika.github.io/ferris-wheel/) |
+|[Landing Page](https://satyasaadhika.github.io/Landing-page/)|  |
+|[![landing-page](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/79f878e3-3fe9-40f0-9e49-3ca278e1a2f7)](https://satyasaadhika.github.io/Landing-page/)|  |
+
 
 
 
