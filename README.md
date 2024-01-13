@@ -30,8 +30,8 @@
 |[![animal-trading-card](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/88a3ac98-03b4-4df4-bc3a-8d7c3bf72111)](https://satyasaadhika.github.io/Animal-trading-card/)|[![landing-page-project](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/d1114c55-8219-45b6-923b-1dd739e82481)](https://satyasaadhika.github.io/Easy-bank-website/)|
 |[Fish Bowl](https://satyasaadhika.github.io/fish-bowl/)|[Profile Card](https://satyasaadhika.github.io/Profile-Card/)|
 |[![fish-bowl](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/a39cd6f9-16e5-4cec-9ade-cce9b9246753)](https://satyasaadhika.github.io/fish-bowl/)|[![profile-card](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/beafa6f5-8096-414b-b824-926009244e9e)](https://satyasaadhika.github.io/Profile-Card/)|
-|[Responsive-Restaurant-Website](https://satyasaadhika.github.io/Responsive-restaurant-website/)|  |
-|[![Restaurant-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b8e82cdf-4fb3-4b3d-a13f-7d8d26fb3fd8)](https://satyasaadhika.github.io/Responsive-restaurant-website/)|  |
+|[Responsive-Restaurant-Website](https://satyasaadhika.github.io/Responsive-restaurant-website/)| [Toggle Button](https://satyasaadhika.github.io/Toggle-button/) |
+|[![Restaurant-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b8e82cdf-4fb3-4b3d-a13f-7d8d26fb3fd8)](https://satyasaadhika.github.io/Responsive-restaurant-website/)| [![Toggle-button](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/523c5b72-d602-4def-9a72-a0cc342601fb)](https://satyasaadhika.github.io/Toggle-button/)|
 
 
 
