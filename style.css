@@ -1,6 +1,5 @@
 html,
 body {
-  font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
 
@@ -24,6 +23,15 @@ nav ul {
   text-align: right;
   width: 100%;
 }
+nav i{
+  margin-right: 50px;
+  font-size: 1.85rem;
+  border: 1px solid gray;
+  border-radius: 3px;
+  padding: 4px;
+
+}
+
 
 nav ul li {
   display: inline-block;
