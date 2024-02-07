@@ -12,6 +12,8 @@ nav{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  color: #1d2120;
+  background-color: #9d9c9c;
 }
 nav .logo{
   font-size: 2.10rem;
@@ -23,15 +25,6 @@ nav ul {
   text-align: right;
   width: 100%;
 }
-nav i{
-  margin-right: 50px;
-  font-size: 1.85rem;
-  border: 1px solid gray;
-  border-radius: 3px;
-  padding: 4px;
-
-}
-
 
 nav ul li {
   display: inline-block;
@@ -39,9 +32,8 @@ nav ul li {
   margin-bottom: 15px;
   margin-top: 25px;
 }
-
 nav ul li a {
-  color: #030303;
+  color: #1d2120;
   text-decoration: none;
   font-size: 1.3rem;
 }
@@ -231,6 +223,8 @@ h1
 .work .work-header {
   margin-top: 50px;
   color: #030303;
+  background-color: rgb(128, 141, 141);
+  padding: 14px;
   font-weight: bold;
   margin: 15px;
 }
@@ -241,8 +235,8 @@ h1
   display: inline-block;
   overflow: hidden;
   border: 2px solid lightblue;
-  height: 240px;
-  width: 280px;
+  height: 260px;
+  width: 290px;
   margin: 40px 100px;
 }
 
@@ -253,6 +247,7 @@ h1
 }
 
 .project-title {
+  padding-top: 20px;
   font-weight: bold;
 }
 
@@ -296,11 +291,12 @@ h1
 
 footer {
   padding: 20px;
-  color: rgb(16, 16, 16);
   line-height: 40px;
+  background-color: #9d9c9c;
 }
 footer p{
   font-size: 1rem;
+    color: #1d2120;
 }
 
 footer a {
