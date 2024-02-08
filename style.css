@@ -234,7 +234,8 @@ h1
   color: black;
   display: inline-block;
   overflow: hidden;
-  border: 2px solid lightblue;
+  border: 2px solid rgb(142, 142, 143);
+  border-radius: 1%;
   height: 260px;
   width: 290px;
   margin: 40px 100px;
@@ -247,8 +248,15 @@ h1
 }
 
 .project-title {
-  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid gray;
+  border-radius: 2%;
   font-weight: bold;
+  padding: 6px;
+  color: white;
+  background-color: rgb(106, 130, 139)  ;
 }
 
 @media only screen and (max-width: 500px) {
