@@ -32,8 +32,8 @@
 |[![fish-bowl](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/a39cd6f9-16e5-4cec-9ade-cce9b9246753)](https://satyasaadhika.github.io/fish-bowl/)|[![profile-card](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/beafa6f5-8096-414b-b824-926009244e9e)](https://satyasaadhika.github.io/Profile-Card/)|
 |[Responsive-Restaurant-Website](https://satyasaadhika.github.io/Responsive-restaurant-website/)| [Toggle Button](https://satyasaadhika.github.io/Toggle-button/) |
 |[![Restaurant-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b8e82cdf-4fb3-4b3d-a13f-7d8d26fb3fd8)](https://satyasaadhika.github.io/Responsive-restaurant-website/)| [![Toggle-button](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/523c5b72-d602-4def-9a72-a0cc342601fb)](https://satyasaadhika.github.io/Toggle-button/)|
-|[404 Error Page](https://satyasaadhika.github.io/404_error_page/)|  |
-|[![404-error-page](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/883466a7-25c1-471a-bc31-af074903f8e0)](https://satyasaadhika.github.io/404_error_page/)|  |
+|[404 Error Page](https://satyasaadhika.github.io/404_error_page/)| [Calculator](https://satyasaadhika.github.io/calculator/) |
+|[![404-error-page](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/883466a7-25c1-471a-bc31-af074903f8e0)](https://satyasaadhika.github.io/404_error_page/)| [![calculator](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e8d30a04-df16-4f06-80e2-11943a7869ee)](https://satyasaadhika.github.io/calculator/)|
 
 
 
