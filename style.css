@@ -256,6 +256,7 @@ h1
  .card-body .btn{
   background-color: rgb(54, 108, 188);
   color: #fff;
+  margin-top: 6px;
 }
 .card-body .btn:hover{
   background-color: rgb(41, 85, 152);
