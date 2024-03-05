@@ -6,17 +6,28 @@
     <title>Priyanshu Maurya Portfolio</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
     
 </head>
 <body>
-    <nav>
-      <h2 class="logo">Port<span>Folio</span></h2>
-        <ul>
-          <li><a href="#intro">About</a></li>
-          <li><a href="#work">Work</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav>
+  <nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Port<span>Folio</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link active" href="#intro">About</a>
+          <a class="nav-link active" href="#skills">Skills</a>
+          <a class="nav-link active " href="#work">Work</a>
+          <a class="nav-link active" href="#contact">Contact</a>
+        </div>
+      </div>
+    </div>
+  </nav>
       <div class="container">
         <div class="left">
           <h2>Hello</h2>
@@ -42,7 +53,7 @@
        <div class="headline">
          <h2>What do you <span>want to know</span></h2>
          <hr class="line">
-         <p class="text">My name is priyanshu maurya.I am from uttar pradesh.I am currently pursuing my Bachelor's degree at Veer Bahadur Singh Purvanchal University. I have a keen interest in Competitive Programming and Web Development.
+         <p class="text">My name is priyanshu maurya.I am from uttar pradesh.I am currently pursuing my Bachelor's degree from Veer Bahadur Singh Purvanchal University. I have a keen interest in Competitive Programming and Web Development.
            I'm a web developer with a goal to master javascript.
            The technologies I Know include HTML, CSS, JavaScript, bootstrap, Git and Github, as well as basic C language .</p>
        </div>
@@ -78,7 +89,7 @@
      </div>
      </div>
      <!--Skills Section-->
-     <div class="skills">
+     <div class="skills" id="skills">
       <div class="container2">
         <h1 class="text-center">My Skills</h1>
           <hr>
@@ -86,32 +97,73 @@
                   <img src="image/html-logo.png" alt="html">
                   <img src="image/css-logo.png" alt="css-logo">
                   <img src="image/js.png" class="pic1" alt="js-logo">
+          </div>  
+          <div class="rows">
                   <img src="image/bootstrap.jpg"  class="pic"alt="bootstrap">          
                   <img src="image/github-logo.png" alt="github-logo">
                   <img src="image/c-logo.png" alt="c-logo">
-                  <img src="image/responsive.jpg" class="pic2"alt="Responsive-logo"></a>
-          </div>             
+          </div>           
       </div>
     </div>
       <!--Project Section-->
       <div id="work" class="work">
         <h1  class="work-header">Project</h1>
         <h2>These are some of my projects..</h2>  
-        <hr class="line">       
+        <hr class="line"> 
+        
+        <a href="https://satyasaadhika.github.io/Easy-bank-website/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/d1114c55-8219-45b6-923b-1dd739e82481" alt="project">
+          <div class="project-title">Easy Bank Website</div>
+        </a>
+
+        <a href="https://satyasaadhika.github.io/Responsive-restaurant-website/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b8e82cdf-4fb3-4b3d-a13f-7d8d26fb3fd8" alt="project">
+          <div class="project-title">Restaurant Website</div>
+        </a>
+
+        <a href="https://satyasaadhika.github.io/amazon-clone/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc" alt="project">
+          <div class="project-title">Amazon Clone Project</div>
+        </a>
+
+        <a href="https://satyasaadhika.github.io/magazine/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d" alt="project">
+          <div class="project-title">Magazine Project</div>
+        </a>
+
+        <a href="https://satyasaadhika.github.io/cafe-menu/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9fc66923-60c3-4907-8634-fe3e45ababd6" alt="project">
+          <div class="project-title">Cafe Menu Project</div>
+        </a>
         <a href="https://satyasaadhika.github.io/tribute-page/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/99c00a54-da65-46dc-8d1d-8ee90abbfd7a" alt="project">
           <div class="project-title">Tribute Page</div>
         </a>
+        <a href="https://satyasaadhika.github.io/calculator/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e8d30a04-df16-4f06-80e2-11943a7869ee" alt="project">
+          <div class="project-title">Calculator</div>
+        </a>
           
+
+        <a href="https://satyasaadhika.github.io/404_error_page/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/883466a7-25c1-471a-bc31-af074903f8e0" alt="project">
+          <div class="project-title">404 Error Page </div>
+        </a>
+
+                <a href="https://satyasaadhika.github.io/Landing-page/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/79f878e3-3fe9-40f0-9e49-3ca278e1a2f7" alt="project">
+          <div class="project-title">Landing Page</div>
+        </a>
+
+        <a href="https://satyasaadhika.github.io/freecodecamp-wd-landing/" target="_blank" class="project">
+          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/1358de36-8023-4ccb-9aba-419fe0971262" alt="project">
+          <div class="project-title">FCC Web Landing</div>
+        </a>
         <a href="https://satyasaadhika.github.io/city-skyline/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e39778b5-6f17-4560-884d-58cc3040db39" alt="project">
           <div class="project-title">City Skyline</div>
         </a>
           
-         <a href="https://satyasaadhika.github.io/Responsive-restaurant-website/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b8e82cdf-4fb3-4b3d-a13f-7d8d26fb3fd8" alt="project">
-          <div class="project-title">Responsive Restaurant Website</div>
-        </a>
           
         <a href="https://satyasaadhika.github.io/cat-photos/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/29416169-dfd9-4a6e-a01c-d088d0d54360" alt="project">
@@ -135,16 +187,6 @@
         <a href="https://satyasaadhika.github.io/Profile-Card/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/beafa6f5-8096-414b-b824-926009244e9e" alt="project">
           <div class="project-title"> User Profile Card</div>
-        </a>
-          
-        <a href="https://satyasaadhika.github.io/amazon-clone/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc" alt="project">
-          <div class="project-title">Amazon Clone Project</div>
-        </a>
-      
-       <a href="https://satyasaadhika.github.io/magazine/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9025cd7a-0c11-4f67-b512-7008efd8d01d" alt="project">
-          <div class="project-title">Magazine Project</div>
         </a>
           
        <a href="https://satyasaadhika.github.io/Penguin-design/" target="_blank" class="project">
@@ -182,11 +224,6 @@
           <div class="project-title">Payment Form</div>
         </a>
       
-      <a href="https://satyasaadhika.github.io/cafe-menu/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9fc66923-60c3-4907-8634-fe3e45ababd6" alt="project">
-          <div class="project-title">Cafe Menu Project</div>
-      </a>
-      
       <a href="https://satyasaadhika.github.io/form/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/8e02c9f8-e6b5-487d-9a81-d428541acc95" alt="project">
           <div class="project-title">Survey Form Project</div>
@@ -216,10 +253,6 @@
           <div class="project-title">Balance Sheet Page</div>
         </a>
           
-      <a href="https://satyasaadhika.github.io/Easy-bank-website/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/d1114c55-8219-45b6-923b-1dd739e82481" alt="project">
-          <div class="project-title">Easy Bank Website</div>
-        </a>
       
       <a href="https://satyasaadhika.github.io/cat-painting/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/b340a20c-aabf-4e86-a427-f44dd6703744" alt="project">
@@ -230,29 +263,10 @@
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/abb0d232-36a3-4016-a324-066d055f07c1" alt="project">
           <div class="project-title">Ferris Wheel Project</div>
         </a>
-        <a href="https://satyasaadhika.github.io/Landing-page/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/79f878e3-3fe9-40f0-9e49-3ca278e1a2f7" alt="project">
-          <div class="project-title">Landing Page</div>
-        </a>
-
-        <a href="https://satyasaadhika.github.io/freecodecamp-wd-landing/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/1358de36-8023-4ccb-9aba-419fe0971262" alt="project">
-          <div class="project-title">FreeCodeCamp Web Landing</div>
-        </a>
 
         <a href="https://satyasaadhika.github.io/Toggle-button/" target="_blank" class="project">
           <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/523c5b72-d602-4def-9a72-a0cc342601fb" alt="project">
           <div class="project-title">Toggle Button Mode</div>
-        </a>
-          
-         <a href="https://satyasaadhika.github.io/404_error_page/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/883466a7-25c1-471a-bc31-af074903f8e0" alt="project">
-          <div class="project-title">404 Error Page </div>
-        </a>
-
-         <a href="https://satyasaadhika.github.io/calculator/" target="_blank" class="project">
-          <img class="project-pic" src="https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/e8d30a04-df16-4f06-80e2-11943a7869ee" alt="project">
-          <div class="project-title">Calculator</div>
         </a>
           
       </div>
