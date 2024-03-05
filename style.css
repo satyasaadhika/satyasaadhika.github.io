@@ -217,8 +217,61 @@ h1
   margin-left: 10%;
   padding-bottom:15px ;
 }
+/*certificate section*/
+.certificate{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 40px;
+}
+.certificate-section hr{
+  width: 40%;
+  padding: 2px;
+  margin-bottom: 40px;
+  background-color: rgb(7, 5, 5);
+  height: 10%;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card{
+  background: linear-gradient(60deg, rgb(248, 242, 229), rgb(151, 233, 244));
+}
+.text-center{
+  font-weight: bolder;
+}
+.card-body .grade{
+  font-size: 1rem;
+  font-weight: 550;
+  margin: 1px;
+  padding: 1px;
 
-/* Skills  */
+}
+.card-title{
+  color: #986114;
+  font-size: 1.4rem;
+  text-shadow: 1px 1px 2px rgb(215, 211, 212);
+  border-bottom: 2px dotted rgb(8, 8, 8);
+}
+ .card-body .btn{
+  background-color: rgb(54, 108, 188);
+  color: #fff;
+}
+.card-body .btn:hover{
+  background-color: rgb(41, 85, 152);
+  color: white;
+}
+@media only screen and (max-width:600px){
+  .certificate{
+    display: block;
+    margin-left: 11px;
+  }
+  .card{
+    margin-top: 20px;
+  }
+  }
+
+  /* Skills  */
 .skills hr{
   width: 40%;
   padding: 2px;
@@ -447,57 +500,4 @@ footer a:hover {
   color: rgb(150, 21, 193);
   border: 2px solid black;
 } 
-/*certificate*/
-.certificate{
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  padding-bottom: 40px;
-}
-.certificate-section hr{
-  width: 40%;
-  padding: 2px;
-  margin-bottom: 40px;
-  background-color: rgb(7, 5, 5);
-  height: 10%;
-  border-radius: 5px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.card{
-  background: linear-gradient(60deg, rgb(248, 242, 229), rgb(151, 233, 244));
-}
-.text-center{
-  font-weight: bolder;
-}
-.card-body .grade{
-  font-size: 1rem;
-  font-weight: 550;
-  margin: 1px;
-  padding: 1px;
-
-}
-.card-title{
-  color: #aa680c;
-  font-size: 1.4rem;
-  text-shadow: 1px 1px 2px rgb(215, 211, 212);
-  border-bottom: 2px dotted rgb(8, 8, 8);
-}
- .card-body .btn{
-  background-color: rgb(54, 108, 188);
-  color: #fff;
-}
-.card-body .btn:hover{
-  background-color: rgb(41, 85, 152);
-  color: white;
-}
-@media only screen and (max-width:600px){
-  .certificate{
-    display: block;
-    margin-left: 11px;
-  }
-  .card{
-    margin-top: 20px;
-  }
-  }
 
