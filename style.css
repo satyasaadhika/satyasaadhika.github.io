@@ -12,7 +12,9 @@ body {
   font-size: 1.3rem;
   font-weight: 500;
   color: black;
+  padding-bottom: 25px;
 }
+
 .container-fluid .navbar-brand{
   font-size: 2rem;
   font-weight: bold;
@@ -144,6 +146,10 @@ h1
     padding: 2px;
     color: rgb(13, 11, 11);
   }
+  .eduction-cap {
+    font-size: 3em;
+    margin-left: 15px;
+  }
   
 }
 
@@ -187,7 +193,7 @@ h1
   border-radius: 5px;
 }
 .eduction-cap {
-  font-size: 5rem;
+  font-size: 5em;
   margin-left: 25px;
 }
 .eduction-title{
@@ -384,9 +390,6 @@ h1
 }
 .profile-card .details .contact-link:hover{
   color: blue;
-}
-.profile-card .details .contact-link i:hover{
-  color: rgb(7, 7, 7);
 }
 .profile-card .details i{
  margin-right: 6px;
