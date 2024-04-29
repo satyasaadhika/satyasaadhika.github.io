@@ -3,6 +3,7 @@
 
 |[Amazon Clone](https://satyasaadhika.github.io/amazon-clone/)  |  [Tribute - Dr. Norman Borlaug](https://satyasaadhika.github.io/tribute-page/) |
 |:--------:|:---------:|
+|[![Phototography](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/37fa45e0-2ade-4f54-9039-b020e69d2c33)]()|[![tax](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/14a26600-b43d-4984-91ac-11111d6bbe50)]()|
 |[![Amazon-Website](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/9a71a75d-48a3-4921-b636-9737c40af2bc)](https://satyasaadhika.github.io/amazon-clone/)|[![Dr   Norman-Borlaug](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/99c00a54-da65-46dc-8d1d-8ee90abbfd7a)](https://satyasaadhika.github.io/tribute-page/) |
 |[Original Trombones](https://satyasaadhika.github.io/trombones/)  | [CatPhotoApp](https://satyasaadhika.github.io/cat-photos/)|
 |[![Original-Trombones](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/f9bdec84-6648-4c98-abb1-ecb6dc8176b4)](https://satyasaadhika.github.io/trombones/) |[![CatPhotoApp](https://github.com/satyasaadhika/satyasaadhika.github.io/assets/106907193/29416169-dfd9-4a6e-a01c-d088d0d54360)](https://satyasaadhika.github.io/cat-photos/)|
